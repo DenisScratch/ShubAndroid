@@ -6,7 +6,7 @@
     version     = "1.0.0" >
 
 <!-- versionCode is optional and Android only -->
-<plugin name="phonegap-plugin-push" />
+<gap:plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.1" source="git" />
   <name>project.html</name>
 
   <description>
