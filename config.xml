@@ -7,7 +7,7 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>project</name>
+  <name>project.html</name>
 
   <description>
       An example for phonegap build docs.
